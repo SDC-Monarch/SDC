@@ -1,5 +1,5 @@
 # SDC
-The Q&A backend is a collection of API endpoints that enable users to access and contribute questions and answers for an e-commerce clothing website. With eight different endpoints, users can easily retrieve data, post new questions and answers, and even flag answers as helpful or report any issues.
+This project consists of rebuilding a server, database and API for an outdated backend system of an Ecommerce app that contains over 30 million records. The backend was split into three different sections: Products, Questions and Answers, and Ratings and Reviews.
 
 
 ## Table of Contents
